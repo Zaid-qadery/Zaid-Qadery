@@ -2,7 +2,12 @@
 
 I'm a final-year Cyber Security student at Manchester Metropolitan University. I'm most interested in offensive security and penetration testing, but I'm building up my defensive skills too, because I think you need to understand how attacks get detected before you can test a system properly.
 
-I've only just made this profile public, so it's fairly empty for now. Over the coming months I'll be adding my labs, write-ups and small security tools here as I build them.
+I've only just made this profile public, so it's fairly empty for now. Over the coming months, I'll be adding my labs, write-ups and small security tools here as I build them.
+
+## Projects
+
+-[Multi-Site Network Design](https://github.com/Zaid-Qadery/multi-site-network-design): two-city network in Cisco Packet Tracer with VLANs, ACLs, SSH, HSRP and RIP v2
+-[Wireshark Traffic Analysis](https://github.com/Zaid-Qadery/wireshark-traffic-analysis): investigating a port scan, FTP brute force and data theft, mapped to MITRE ATT&CK
 
 ### Right now
 
